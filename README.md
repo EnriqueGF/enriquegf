@@ -32,3 +32,5 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+La verdad siempre se halla en la simplicidad y no en la multiplicidad y confusión de las cosas. - Isaac Newton
