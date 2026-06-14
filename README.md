@@ -33,4 +33,4 @@
   </a>
 </p>
 
-La verdad siempre se halla en la simplicidad y no en la multiplicidad y confusión de las cosas. - Isaac Newton
+La verdad siempre se encuentra en la simplicidad, y no en la multiplicidad y confusión de las cosas. - Isaac Newton
